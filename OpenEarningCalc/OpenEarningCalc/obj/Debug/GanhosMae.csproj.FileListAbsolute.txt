@@ -1,0 +1,11 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\GanhosMae\GanhosMae\bin\Debug\GanhosMae.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\GanhosMae\GanhosMae\bin\Debug\GanhosMae.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\GanhosMae\GanhosMae\bin\Debug\GanhosMae.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\GanhosMae\GanhosMae\obj\Debug\GanhosMae.Form1.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\GanhosMae\GanhosMae\obj\Debug\GanhosMae.Properties.Resources.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\GanhosMae\GanhosMae\obj\Debug\GanhosMae.csproj.GenerateResource.Cache
+c:\users\eduardo\documents\visual studio 2015\Projects\GanhosMae\GanhosMae\obj\Debug\GanhosMae.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\GanhosMae\GanhosMae\obj\Debug\GanhosMae.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\GanhosMae\GanhosMae\obj\Debug\GanhosMae.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\GanhosMae\GanhosMae\obj\Debug\GanhosMae.HelpBox.resources
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\GanhosMae\GanhosMae\bin\Debug\Ajuda.txt
