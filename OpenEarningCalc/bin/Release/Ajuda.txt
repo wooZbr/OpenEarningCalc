@@ -1,0 +1,2 @@
+OpenEarningCalc 1.0 | 2020 @wooZbr
+Programa open source,feito para aprendizado :D

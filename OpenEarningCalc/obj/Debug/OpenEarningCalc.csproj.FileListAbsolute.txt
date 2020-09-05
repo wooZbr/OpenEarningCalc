@@ -1,0 +1,11 @@
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\bin\Debug\GanhosMae.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\obj\Debug\GanhosMae.exe
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\obj\Debug\GanhosMae.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\bin\Debug\Ajuda.txt
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\bin\Debug\GanhosMae.exe
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\bin\Debug\GanhosMae.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\obj\Debug\OpenEarningCalc.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\obj\Debug\GanhosMae.Form1.resources
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\obj\Debug\GanhosMae.HelpBox.resources
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\obj\Debug\GanhosMae.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\OpenEarningCalc\OpenEarningCalc\obj\Debug\OpenEarningCalc.csproj.GenerateResource.Cache
